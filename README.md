@@ -1,6 +1,17 @@
-# blogspot
+# Flutter Blogspot
 
-A new Flutter project.
+Get your blogspot on playstore or appstore.
+
+Using Blogger API v3 to get post blogging.
+
+# Features
+
+- List Post
+- Search Post
+- Detail Post
+- Share Post
+- Get comments
+- In Development
 
 ## Getting Started
 
